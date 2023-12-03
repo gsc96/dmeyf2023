@@ -53,7 +53,7 @@ PARAM$hyperparametertuning$POS_ganancia <- 273000
 PARAM$hyperparametertuning$NEG_ganancia <- -7000
 
 # Aqui poner su segunda semilla
-PARAM$lgb_semilla <- 694079
+PARAM$lgb_semilla <- 100043
 #------------------------------------------------------------------------------
 
 # Hiperparametros FIJOS de  lightgbm
