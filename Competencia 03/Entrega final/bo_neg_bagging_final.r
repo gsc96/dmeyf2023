@@ -44,13 +44,13 @@ PARAM$input$training <- c(202010, 202011, 202012, 202101, 202102, 202103, 202104
 
 # un undersampling de 0.1  toma solo el 10% de los CONTINUA
 PARAM$trainingstrategy$undersampling <- 1.0
-PARAM$trainingstrategy$semilla_azar <- 364747 # Aqui poner su  primer  semilla
+PARAM$trainingstrategy$semilla_azar <- 100043 # Aqui poner su  primer  semilla
 
 PARAM$hyperparametertuning$POS_ganancia <- 273000
 PARAM$hyperparametertuning$NEG_ganancia <- -7000
 
 # Aqui poner su segunda semilla
-PARAM$lgb_semilla <- 694079
+PARAM$lgb_semilla <- 100019
 #------------------------------------------------------------------------------
 
 # Hiperparametros FIJOS de  lightgbm
